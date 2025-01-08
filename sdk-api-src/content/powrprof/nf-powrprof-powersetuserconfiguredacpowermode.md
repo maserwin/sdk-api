@@ -1,5 +1,5 @@
 ---
-UID: NF:powersetting.PowerSetUserConfiguredACPowerMode
+UID: NF:powrprof.PowerSetUserConfiguredACPowerMode
 title: PowerSetUserConfiguredACPowerMode function (powrprof.h)
 description: Sets the user configured power mode to use when the device is on AC.
 helpviewer_keywords: ["GUID_PROCESSOR_SETTINGS_SUBGROUP","NO_SUBGROUP_GUID","PowerSetUserConfiguredACPowerMode","PowerSetUserConfiguredACPowerMode function","base.powersetuserconfiguredacpowermode","powersetting/PowerSetUserConfiguredACPowerMode","powrprof/PowerSetUserConfiguredACPowerMode"]
@@ -8,7 +8,7 @@ tech.root: power
 ms.assetid: 8b1f8edb-d30b-447f-9277-5cc9b9aa4976
 ms.date: 07/24/2023
 ms.keywords: GUID_PROCESSOR_SETTINGS_SUBGROUP, NO_SUBGROUP_GUID, PowerSetUserConfiguredACPowerMode, PowerSetUserConfiguredACPowerMode function, base.powersetuserconfiguredacpowermode, powersetting/PowerSetUserConfiguredACPowerMode, powrprof/PowerSetUserConfiguredACPowerMode
-req.header: powersetting.h
+req.header: powrprof.h
 req.include-header: 
 req.target-type: Windows
 req.target-min-winverclnt: Windows 11 [desktop apps only]
