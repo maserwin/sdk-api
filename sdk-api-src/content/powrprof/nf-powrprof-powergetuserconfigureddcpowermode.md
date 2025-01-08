@@ -1,5 +1,5 @@
 ---
-UID: NF:powersetting.PowerGetUserConfiguredDCPowerMode
+UID: NF:powrprof.PowerGetUserConfiguredDCPowerMode
 title: PowerGetUserConfiguredDCPowerMode function (powrprof.h)
 description: Gets the user configured power mode the device uses when on AC.
 helpviewer_keywords: ["GUID_PROCESSOR_SETTINGS_SUBGROUP","NO_SUBGROUP_GUID","PowerGetUserConfiguredDCPowerMode","PowerGetUserConfiguredDCPowerMode function","base.powergetuserconfigureddcpowermode","powersetting/PowerGetUserConfiguredDCPowerMode","powrprof/PowerGetUserConfiguredDCPowerMode"]
