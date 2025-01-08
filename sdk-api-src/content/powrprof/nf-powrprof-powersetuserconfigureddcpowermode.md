@@ -1,6 +1,6 @@
 ---
-UID: NF:powersetting.PowerSetUserConfiguredDCPowerMode
-title: PowerSetUserConfiguredDCPowerMode function (powersetting.h)
+UID: NF:powrprof.PowerSetUserConfiguredDCPowerMode
+title: PowerSetUserConfiguredDCPowerMode function (powrprof.h)
 description: Sets the user configured power mode to use when the device is on DC.
 helpviewer_keywords: ["GUID_PROCESSOR_SETTINGS_SUBGROUP","NO_SUBGROUP_GUID","PowerSetUserConfiguredDCPowerMode","PowerSetUserConfiguredDCPowerMode function","base.powersetuserconfigureddcpowermode","powersetting/PowerSetUserConfiguredDCPowerMode","powrprof/PowerSetUserConfiguredDCPowerMode"]
 old-location:
@@ -8,7 +8,7 @@ tech.root: power
 ms.assetid: ba49c3f3-48d2-4727-9aff-cc135a2099b1
 ms.date: 07/24/2023
 ms.keywords: GUID_PROCESSOR_SETTINGS_SUBGROUP, NO_SUBGROUP_GUID, PowerSetUserConfiguredDCPowerMode, PowerSetUserConfiguredDCPowerMode function, base.powersetuserconfigureddcpowermode, powersetting/PowerSetUserConfiguredDCPowerMode, powrprof/PowerSetUserConfiguredDCPowerMode
-req.header: powersetting.h
+req.header: powrprof.h
 req.include-header: 
 req.target-type: Windows
 req.target-min-winverclnt: Windows 11 [desktop apps only]
@@ -31,7 +31,7 @@ req.redist:
 ms.custom: 23H2
 f1_keywords:
  - PowerSetUserConfiguredDCPowerMode
- - powersetting/PowerSetUserConfiguredDCPowerMode
+ - powrprof/PowerSetUserConfiguredDCPowerMode
 dev_langs:
  - c++
 topic_type:
