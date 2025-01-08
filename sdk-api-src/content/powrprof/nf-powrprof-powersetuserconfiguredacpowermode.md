@@ -1,6 +1,6 @@
 ---
 UID: NF:powersetting.PowerSetUserConfiguredACPowerMode
-title: PowerSetUserConfiguredACPowerMode function (powersetting.h)
+title: PowerSetUserConfiguredACPowerMode function (powrprof.h)
 description: Sets the user configured power mode to use when the device is on AC.
 helpviewer_keywords: ["GUID_PROCESSOR_SETTINGS_SUBGROUP","NO_SUBGROUP_GUID","PowerSetUserConfiguredACPowerMode","PowerSetUserConfiguredACPowerMode function","base.powersetuserconfiguredacpowermode","powersetting/PowerSetUserConfiguredACPowerMode","powrprof/PowerSetUserConfiguredACPowerMode"]
 old-location:
@@ -31,7 +31,7 @@ req.redist:
 ms.custom: 23H2
 f1_keywords:
  - PowerSetUserConfiguredACPowerMode
- - powersetting/PowerSetUserConfiguredACPowerMode
+ - powrprof/PowerSetUserConfiguredACPowerMode
 dev_langs:
  - c++
 topic_type:
